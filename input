@@ -1,16 +1,16 @@
 t2 0
 ry
 wy
-t1 0
+t1 1
 rx
 wx
 ry
 wy
-t3 0
+t3 2
 rz
 ra
 rb
 wz
-t4 2
+t4 3
 rx
 wx
